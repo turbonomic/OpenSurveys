@@ -8,5 +8,6 @@ Our follow on survey regarding network latency is also published here and can be
 
 ## OpenStack-Survey-Results_VMTurbo_June-2015.xls
 ## Latency-Survey-Results_VMTurbo_August-2015.xlsx
+## Licensing-Survey-Results_VMTurbo_September-2015.xls
 
 ### For more information about our surveys, please visit www.VMTurbo.com or contact our team at marketing@vmturbo.com
