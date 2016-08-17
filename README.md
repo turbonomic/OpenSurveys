@@ -6,8 +6,9 @@ The first of our open surveys was our OpenStack Survey in June 2015 which was fi
 
 Our follow on survey regarding network latency is also published here and can be downloaded in .XLSX format.
 
-## OpenStack-Survey-Results_VMTurbo_June-2015.xls
-## Latency-Survey-Results_VMTurbo_August-2015.xlsx
-## Licensing-Survey-Results_VMTurbo_September-2015.xls
+## OpenStack-Survey-Results_June-2015.xls
+## Latency-Survey-Results_August-2015.xlsx
+## Licensing-Survey-Results_September-2015.xls
+## Multi-Cloud-Survey-Results_August-2016.xlsx
 
 ### For more information about our surveys, please visit www.VMTurbo.com or contact our team at marketing@vmturbo.com
