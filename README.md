@@ -11,4 +11,4 @@ Our follow on survey regarding network latency is also published here and can be
 ## Licensing-Survey-Results_September-2015.xls
 ## Multi-Cloud-Survey-Results_August-2016.xlsx
 
-### For more information about our surveys, please visit www.VMTurbo.com or contact our team at marketing@vmturbo.com
+### For more information about our surveys, please visit www.turbonomic.com.com or contact our team at marketing@turbonomic.com
